@@ -10,7 +10,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 #  НАСТРОЙКИ
 # ════════════════════════════════════════════════
 
-BOT_TOKEN  = "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"
+BOT_TOKEN  = "8766084116:AAFVuXxooUvBf3VslO6EvYNpLzBazMdURBU"
 CHANNEL_ID = "@it_iz_tinder"
 ADMIN_ID   = 309001267
 
